@@ -1,3 +1,5 @@
+<img width="1920" height="2100" alt="balneabilidade_loja" src="https://github.com/user-attachments/assets/0485d409-8c71-4be5-8abb-b0c612b24ffa" />
+
 # Balneabilidade Represas SP — mini app Zepp OS
 
 **PT** · Dá pra nadar? A classificação oficial da **CETESB** para as praias das represas da Grande São Paulo, no pulso: própria ou imprópria para banho, ponto a ponto, nas represas **Guarapiranga, Billings, Rio Grande e Cantareira**, com dados públicos do [Mapa de Qualidade das Praias Interiores](https://arcgis.cetesb.sp.gov.br/portal/apps/experiencebuilder/experience?id=5caf462c81a04896baf8f3916121b8ff).
