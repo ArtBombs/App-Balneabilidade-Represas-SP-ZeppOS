@@ -1,0 +1,11 @@
+{
+  "name": "balneabilidade-represas-sp",
+  "version": "1.2.1",
+  "private": true,
+  "description": "Zepp OS mini app - CETESB bathing water ratings for the beaches of Sao Paulo reservoirs / balneabilidade das praias das represas de SP",
+  "devDependencies": {
+    "@zeppos/device-types": "^4.0.0",
+    "@zeppos/zml": "^0.0.43",
+    "esbuild": "^0.28.2"
+  }
+}
